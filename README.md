@@ -3,7 +3,7 @@
 - 👀 C++ とか C# とか…色々興味あります。
 - 👀 I’m interested in C++ or C#... etc.
 - 🌱 今、これを学んでる、というものは明確にないです。
-- 🌱 I’m nothing currently learning clearly. 
+- 🌱 I have nothing currently learning clearly. 
 - 📫 連絡先：
 - 📫 Contact:
 Twitter:@twelveclock1200
