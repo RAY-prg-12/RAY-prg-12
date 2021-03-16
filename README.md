@@ -1,5 +1,5 @@
-- 👋 こんちゃ。私は @Twelve-3 というものです。
-- 👋 Hi, I’m @Twelve-3
+- 👋 こんちゃ。私は @Twelve-3 というものです。高校生っす。
+- 👋 Hi, I’m @Twelve-3. I'm a high school student.
 - 👀 C++ とか C# とか…色々興味あります。
 - 👀 I’m interested in C++ or C#... etc.
 - 🌱 今、これを学んでる、というものは明確にないです。
