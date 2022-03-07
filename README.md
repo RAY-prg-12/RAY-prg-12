@@ -6,7 +6,7 @@
 - 🌱 I have nothing currently learning clearly. 
 - 📫 連絡先(Contact):  
 Twitter:@twelveclock1200  
-Discord:Tw12-Crns#7954
+Discord:Tw-12.Crns#7954
 
 
 <!---
