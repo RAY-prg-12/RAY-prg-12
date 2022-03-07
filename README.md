@@ -4,9 +4,7 @@
 - 👀 I’m interested in C++ or C#... etc.
 - 🌱 今、これを学んでる、というものは明確にないです。
 - 🌱 I have nothing currently learning clearly. 
-- 📫 連絡先：
-- 📫 Contact:
-- 
+- 📫 連絡先(Contact):
 Twitter:@twelveclock1200
 Discord:Tw12-Crns#7954
 
