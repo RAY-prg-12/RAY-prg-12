@@ -6,8 +6,9 @@
 - 🌱 I have nothing currently learning clearly. 
 - 📫 連絡先：
 - 📫 Contact:
+- 
 Twitter:@twelveclock1200
-Discord:Twelve-3#7954
+Discord:Tw12-Crns#7954
 
 <!---
 Twelve-3/Twelve-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
