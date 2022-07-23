@@ -1,4 +1,4 @@
-- 👋 こんちゃ。私は @Twelve-3 というものです。高校生っす。
+- 👋 こんにちは。私は @Twelve-3 というものです。高校生です。
 - 👋 Hi, I’m @Twelve-3. I'm a high school student.
 - 👀 C++ とか C# とか…色々興味あります。
 - 👀 I’m interested in C++ or C#... etc.
