@@ -5,8 +5,8 @@
 - 🌱 今、これを学んでる、というものは明確にないです。
 - 🌱 I have nothing currently learning clearly. 
 - 📫 連絡先(Contact):  
-Twitter:@twelveclock1200  
-Discord:Tw-12.Crns#7954
+Twitter:@tray_vari  
+Discord:ray_57z
 
 
 <!---
