@@ -8,6 +8,7 @@ Hi. I'm RAY. I live freely.
 ![RAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAY-prg-12&show_icons=true&theme=dark)
 
 ## 使用言語 -Using Programming Laungage-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAY-prg-12&layout=compact&theme=dark)
 * C++
 * C#
 * Java
