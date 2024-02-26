@@ -1,15 +1,32 @@
-- 👋 こんにちは。私は @RAY-3 というものです。高校生です。
-- 👋 Hi, I’m @RAY-3. I'm a high school student.
-- 👀 C++ とか C# とか…色々興味あります。
-- 👀 I’m interested in C++ or C#... etc.
-- 🌱 今、これを学んでる、というものは明確にないです。
-- 🌱 I have nothing currently learning clearly. 
-- 📫 連絡先(Contact):  
+## アナタハ　ダレデスカ？ -ABOUT-
+RAY.と申します。
+自由気ままに生きてます。
+
+Hi. I'm RAY. I live freely.
+
+## STAT.
+![RAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAY-prg-12&show_icons=true&theme=dark)
+
+## 使用言語 -Using Programming Laungage-
+* C++
+* C#
+* Java
+* HTML & CSS
+* JavaScript
+
+## 使用ツール -Using Tools-
+* Visual Studio
+  * JavaScript、HTML、JSON...etc
+  * Webサイト作る時や、Minecraft のアドオンを作成するときはこれを使う。
+* Visual Studio Code
+  * C++、C#
+  * ゲーム作る時など、何かアプリケーションを制作するときに使う。
+* Eclipse
+* IntelliJ IDEA
+  * Java
+  * 専ら Minecraft Java Edition の MOD を作成するときに使う。
+  
+
+## SNS
 Twitter:@tray_vari  
 Discord:ray_57z
-
-
-<!---
-This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
