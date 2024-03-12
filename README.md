@@ -16,10 +16,10 @@ Hi. I'm RAY. I live freely.
 * JavaScript
 
 ## 使用ツール -Using Tools-
-* Visual Studio
+* Visual Studio Code
   * JavaScript、HTML、JSON...etc
   * Webサイト作る時や、Minecraft のアドオンを作成するときはこれを使う。
-* Visual Studio Code
+* Visual Studio
   * C++、C#
   * ゲーム作る時など、何かアプリケーションを制作するときに使う。
 * Eclipse
