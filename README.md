@@ -29,5 +29,5 @@ Hi. I'm RAY. I live freely.
   
 
 ## SNS
-Twitter:@tray_vari  
-Discord:ray_57z
+* Twitter: [@tray_vari](https://twitter.com/tray_vari)
+* Discord:ray_57z
